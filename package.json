@@ -1,0 +1,8 @@
+{
+  "name": "str-amd-wrap",
+  "version": "1.0.0",
+  "description": "Build AMD-based JavaScript projects",
+  "main": "lib/str-amd-wrap.js",
+  "author": "Bacra Woo <bacra.woo@gmail.com>",
+  "license": "MIT"
+}
