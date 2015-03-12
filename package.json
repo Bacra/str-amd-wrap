@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "Build AMD-based JavaScript projects",
   "main": "lib/str-amd-wrap.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Bacra/str-amd-wrap.git"
+  },
   "author": "Bacra Woo <bacra.woo@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bacra/str-amd-wrap/issues"
+  },
+  "homepage": "https://github.com/Bacra/str-amd-wrap"
 }
